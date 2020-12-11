@@ -1,5 +1,4 @@
 <h2> Hi, I'm David Martinez!</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Data Scientist at Lambda School<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 </em></p>
 
@@ -18,4 +17,4 @@ david_martinez = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting people</b> so say <b>hi, lets connect!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting people, lets connect!</b> :)</em>
